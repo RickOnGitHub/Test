@@ -1,2 +1,2 @@
-# Test
-Test voor school
+# Eigen library
+Een simpele nederlandtalige library.
